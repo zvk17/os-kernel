@@ -1,4 +1,4 @@
-# os-kernel
+# Operativni sistemi - Jezgro operativnog sistema
 
-Realizacija malog, ali sasvim funkcionalnog jezgra operativnog sistema koji podržava niti  sa deljenjem vremena.
+Realizacija funkcionalnog jezgra operativnog sistema koji podržava niti sa deljenjem vremena.
 Korišćen Borlandov C++ kompajler iz 1992 godine.
